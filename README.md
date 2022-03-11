@@ -1,5 +1,5 @@
-# python
 # Core Python
+# Objected Oriented Python
 # Numpy
 # Matplotlib 
 # Seaborn
